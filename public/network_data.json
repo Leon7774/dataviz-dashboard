@@ -1,0 +1,952 @@
+{
+  "nodes": [
+    {
+      "id": "Zubiri",
+      "name": "Zubiri",
+      "val": 14,
+      "degreeCentrality": 0.6086956521739131,
+      "betweennessCentrality": 0.0,
+      "community": 1,
+      "billsCount": 61
+    },
+    {
+      "id": "Hontiveros",
+      "name": "Hontiveros",
+      "val": 15,
+      "degreeCentrality": 0.6521739130434783,
+      "betweennessCentrality": 0.2213438735177865,
+      "community": 1,
+      "billsCount": 47
+    },
+    {
+      "id": "Tulfo",
+      "name": "Tulfo",
+      "val": 17,
+      "degreeCentrality": 0.7391304347826086,
+      "betweennessCentrality": 0.14959533220402782,
+      "community": 1,
+      "billsCount": 55
+    },
+    {
+      "id": "Gatchalian",
+      "name": "Gatchalian",
+      "val": 19,
+      "degreeCentrality": 0.8260869565217391,
+      "betweennessCentrality": 0.08992094861660078,
+      "community": 1,
+      "billsCount": 109
+    },
+    {
+      "id": "Legarda",
+      "name": "Legarda",
+      "val": 17,
+      "degreeCentrality": 0.7391304347826086,
+      "betweennessCentrality": 0.0004940711462450593,
+      "community": 1,
+      "billsCount": 94
+    },
+    {
+      "id": "Poe",
+      "name": "Poe",
+      "val": 15,
+      "degreeCentrality": 0.6521739130434783,
+      "betweennessCentrality": 0.035549595332204025,
+      "community": 1,
+      "billsCount": 61
+    },
+    {
+      "id": "Revilla",
+      "name": "Revilla",
+      "val": 18,
+      "degreeCentrality": 0.7826086956521738,
+      "betweennessCentrality": 0.0,
+      "community": 1,
+      "billsCount": 164
+    },
+    {
+      "id": "Dela Rosa",
+      "name": "Dela Rosa",
+      "val": 16,
+      "degreeCentrality": 0.6956521739130435,
+      "betweennessCentrality": 0.024802371541501975,
+      "community": 1,
+      "billsCount": 32
+    },
+    {
+      "id": "Ejercito",
+      "name": "Ejercito",
+      "val": 15,
+      "degreeCentrality": 0.6521739130434783,
+      "betweennessCentrality": 0.001976284584980237,
+      "community": 0,
+      "billsCount": 172
+    },
+    {
+      "id": "Estrada",
+      "name": "Estrada",
+      "val": 18,
+      "degreeCentrality": 0.7826086956521738,
+      "betweennessCentrality": 0.0831921701486919,
+      "community": 0,
+      "billsCount": 144
+    },
+    {
+      "id": "Escudero",
+      "name": "Escudero",
+      "val": 15,
+      "degreeCentrality": 0.6521739130434783,
+      "betweennessCentrality": 0.03491436100131752,
+      "community": 1,
+      "billsCount": 25
+    },
+    {
+      "id": "Tolentino",
+      "name": "Tolentino",
+      "val": 16,
+      "degreeCentrality": 0.6956521739130435,
+      "betweennessCentrality": 0.03421325051759834,
+      "community": 1,
+      "billsCount": 49
+    },
+    {
+      "id": "Villanueva",
+      "name": "Villanueva",
+      "val": 19,
+      "degreeCentrality": 0.8260869565217391,
+      "betweennessCentrality": 0.03623188405797101,
+      "community": 1,
+      "billsCount": 101
+    },
+    {
+      "id": "Pimentel",
+      "name": "Pimentel",
+      "val": 11,
+      "degreeCentrality": 0.4782608695652174,
+      "betweennessCentrality": 0.22433653303218518,
+      "community": 1,
+      "billsCount": 13
+    },
+    {
+      "id": "Angara",
+      "name": "Angara",
+      "val": 18,
+      "degreeCentrality": 0.7826086956521738,
+      "betweennessCentrality": 0.03999623564840956,
+      "community": 1,
+      "billsCount": 65
+    },
+    {
+      "id": "Padilla",
+      "name": "Padilla",
+      "val": 14,
+      "degreeCentrality": 0.6086956521739131,
+      "betweennessCentrality": 0.0,
+      "community": 1,
+      "billsCount": 36
+    },
+    {
+      "id": "Go",
+      "name": "Go",
+      "val": 6,
+      "degreeCentrality": 0.2608695652173913,
+      "betweennessCentrality": 0.07933370976849238,
+      "community": 2,
+      "billsCount": 20
+    },
+    {
+      "id": "Lapid",
+      "name": "Lapid",
+      "val": 2,
+      "degreeCentrality": 0.08695652173913043,
+      "betweennessCentrality": 0.001976284584980237,
+      "community": 0,
+      "billsCount": 50
+    },
+    {
+      "id": "Villar, M.",
+      "name": "Villar, M.",
+      "val": 6,
+      "degreeCentrality": 0.2608695652173913,
+      "betweennessCentrality": 0.01634199134199134,
+      "community": 1,
+      "billsCount": 2
+    },
+    {
+      "id": "Cayetano, P.",
+      "name": "Cayetano, P.",
+      "val": 1,
+      "degreeCentrality": 0.043478260869565216,
+      "betweennessCentrality": 0.0,
+      "community": 1,
+      "billsCount": 1
+    },
+    {
+      "id": "Binay",
+      "name": "Binay",
+      "val": 8,
+      "degreeCentrality": 0.34782608695652173,
+      "betweennessCentrality": 0.12470826275174098,
+      "community": 1,
+      "billsCount": 12
+    },
+    {
+      "id": "Cayetano, A.",
+      "name": "Cayetano, A.",
+      "val": 7,
+      "degreeCentrality": 0.30434782608695654,
+      "betweennessCentrality": 0.17446357989836245,
+      "community": 2,
+      "billsCount": 14
+    },
+    {
+      "id": "Villar, C.",
+      "name": "Villar, C.",
+      "val": 1,
+      "degreeCentrality": 0.043478260869565216,
+      "betweennessCentrality": 0.0,
+      "community": 1,
+      "billsCount": 1
+    },
+    {
+      "id": "Marcos",
+      "name": "Marcos",
+      "val": 4,
+      "degreeCentrality": 0.17391304347826086,
+      "betweennessCentrality": 0.05473367212497646,
+      "community": 2,
+      "billsCount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Zubiri",
+      "target": "Dela Rosa",
+      "weight": 6
+    },
+    {
+      "source": "Zubiri",
+      "target": "Ejercito",
+      "weight": 11
+    },
+    {
+      "source": "Zubiri",
+      "target": "Revilla",
+      "weight": 18
+    },
+    {
+      "source": "Zubiri",
+      "target": "Escudero",
+      "weight": 3
+    },
+    {
+      "source": "Zubiri",
+      "target": "Estrada",
+      "weight": 16
+    },
+    {
+      "source": "Zubiri",
+      "target": "Tolentino",
+      "weight": 5
+    },
+    {
+      "source": "Zubiri",
+      "target": "Villanueva",
+      "weight": 18
+    },
+    {
+      "source": "Zubiri",
+      "target": "Gatchalian",
+      "weight": 17
+    },
+    {
+      "source": "Zubiri",
+      "target": "Legarda",
+      "weight": 11
+    },
+    {
+      "source": "Zubiri",
+      "target": "Padilla",
+      "weight": 6
+    },
+    {
+      "source": "Zubiri",
+      "target": "Tulfo",
+      "weight": 8
+    },
+    {
+      "source": "Zubiri",
+      "target": "Angara",
+      "weight": 6
+    },
+    {
+      "source": "Zubiri",
+      "target": "Hontiveros",
+      "weight": 3
+    },
+    {
+      "source": "Zubiri",
+      "target": "Poe",
+      "weight": 10
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Legarda",
+      "weight": 5
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Padilla",
+      "weight": 4
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Angara",
+      "weight": 4
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Dela Rosa",
+      "weight": 4
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Ejercito",
+      "weight": 1
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Escudero",
+      "weight": 1
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Gatchalian",
+      "weight": 3
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Poe",
+      "weight": 2
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Revilla",
+      "weight": 8
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Tulfo",
+      "weight": 3
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Villanueva",
+      "weight": 3
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Estrada",
+      "weight": 1
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Villar, C.",
+      "weight": 1
+    },
+    {
+      "source": "Hontiveros",
+      "target": "Pimentel",
+      "weight": 1
+    },
+    {
+      "source": "Tulfo",
+      "target": "Ejercito",
+      "weight": 4
+    },
+    {
+      "source": "Tulfo",
+      "target": "Estrada",
+      "weight": 6
+    },
+    {
+      "source": "Tulfo",
+      "target": "Gatchalian",
+      "weight": 10
+    },
+    {
+      "source": "Tulfo",
+      "target": "Legarda",
+      "weight": 6
+    },
+    {
+      "source": "Tulfo",
+      "target": "Padilla",
+      "weight": 3
+    },
+    {
+      "source": "Tulfo",
+      "target": "Revilla",
+      "weight": 9
+    },
+    {
+      "source": "Tulfo",
+      "target": "Villanueva",
+      "weight": 8
+    },
+    {
+      "source": "Tulfo",
+      "target": "Escudero",
+      "weight": 4
+    },
+    {
+      "source": "Tulfo",
+      "target": "Tolentino",
+      "weight": 4
+    },
+    {
+      "source": "Tulfo",
+      "target": "Angara",
+      "weight": 3
+    },
+    {
+      "source": "Tulfo",
+      "target": "Dela Rosa",
+      "weight": 7
+    },
+    {
+      "source": "Tulfo",
+      "target": "Poe",
+      "weight": 5
+    },
+    {
+      "source": "Tulfo",
+      "target": "Cayetano, A.",
+      "weight": 1
+    },
+    {
+      "source": "Tulfo",
+      "target": "Binay",
+      "weight": 1
+    },
+    {
+      "source": "Tulfo",
+      "target": "Pimentel",
+      "weight": 1
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Legarda",
+      "weight": 12
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Poe",
+      "weight": 11
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Revilla",
+      "weight": 22
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Ejercito",
+      "weight": 11
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Villanueva",
+      "weight": 17
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Estrada",
+      "weight": 16
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Padilla",
+      "weight": 6
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Tolentino",
+      "weight": 7
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Cayetano, P.",
+      "weight": 1
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Angara",
+      "weight": 7
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Dela Rosa",
+      "weight": 4
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Escudero",
+      "weight": 5
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Cayetano, A.",
+      "weight": 2
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Pimentel",
+      "weight": 3
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Go",
+      "weight": 1
+    },
+    {
+      "source": "Gatchalian",
+      "target": "Marcos",
+      "weight": 1
+    },
+    {
+      "source": "Legarda",
+      "target": "Poe",
+      "weight": 9
+    },
+    {
+      "source": "Legarda",
+      "target": "Revilla",
+      "weight": 18
+    },
+    {
+      "source": "Legarda",
+      "target": "Padilla",
+      "weight": 7
+    },
+    {
+      "source": "Legarda",
+      "target": "Ejercito",
+      "weight": 9
+    },
+    {
+      "source": "Legarda",
+      "target": "Estrada",
+      "weight": 14
+    },
+    {
+      "source": "Legarda",
+      "target": "Villanueva",
+      "weight": 19
+    },
+    {
+      "source": "Legarda",
+      "target": "Angara",
+      "weight": 9
+    },
+    {
+      "source": "Legarda",
+      "target": "Villar, M.",
+      "weight": 2
+    },
+    {
+      "source": "Legarda",
+      "target": "Dela Rosa",
+      "weight": 4
+    },
+    {
+      "source": "Legarda",
+      "target": "Escudero",
+      "weight": 2
+    },
+    {
+      "source": "Legarda",
+      "target": "Binay",
+      "weight": 2
+    },
+    {
+      "source": "Legarda",
+      "target": "Tolentino",
+      "weight": 3
+    },
+    {
+      "source": "Legarda",
+      "target": "Pimentel",
+      "weight": 1
+    },
+    {
+      "source": "Poe",
+      "target": "Revilla",
+      "weight": 10
+    },
+    {
+      "source": "Poe",
+      "target": "Angara",
+      "weight": 4
+    },
+    {
+      "source": "Poe",
+      "target": "Dela Rosa",
+      "weight": 4
+    },
+    {
+      "source": "Poe",
+      "target": "Ejercito",
+      "weight": 7
+    },
+    {
+      "source": "Poe",
+      "target": "Escudero",
+      "weight": 3
+    },
+    {
+      "source": "Poe",
+      "target": "Padilla",
+      "weight": 7
+    },
+    {
+      "source": "Poe",
+      "target": "Villanueva",
+      "weight": 14
+    },
+    {
+      "source": "Poe",
+      "target": "Estrada",
+      "weight": 9
+    },
+    {
+      "source": "Poe",
+      "target": "Tolentino",
+      "weight": 2
+    },
+    {
+      "source": "Poe",
+      "target": "Go",
+      "weight": 1
+    },
+    {
+      "source": "Revilla",
+      "target": "Dela Rosa",
+      "weight": 8
+    },
+    {
+      "source": "Revilla",
+      "target": "Ejercito",
+      "weight": 11
+    },
+    {
+      "source": "Revilla",
+      "target": "Escudero",
+      "weight": 5
+    },
+    {
+      "source": "Revilla",
+      "target": "Estrada",
+      "weight": 17
+    },
+    {
+      "source": "Revilla",
+      "target": "Tolentino",
+      "weight": 8
+    },
+    {
+      "source": "Revilla",
+      "target": "Villanueva",
+      "weight": 20
+    },
+    {
+      "source": "Revilla",
+      "target": "Pimentel",
+      "weight": 4
+    },
+    {
+      "source": "Revilla",
+      "target": "Padilla",
+      "weight": 7
+    },
+    {
+      "source": "Revilla",
+      "target": "Angara",
+      "weight": 10
+    },
+    {
+      "source": "Revilla",
+      "target": "Cayetano, A.",
+      "weight": 2
+    },
+    {
+      "source": "Revilla",
+      "target": "Go",
+      "weight": 2
+    },
+    {
+      "source": "Revilla",
+      "target": "Marcos",
+      "weight": 1
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Ejercito",
+      "weight": 5
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Angara",
+      "weight": 4
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Escudero",
+      "weight": 2
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Padilla",
+      "weight": 2
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Villanueva",
+      "weight": 5
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Estrada",
+      "weight": 4
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Tolentino",
+      "weight": 3
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Binay",
+      "weight": 1
+    },
+    {
+      "source": "Dela Rosa",
+      "target": "Pimentel",
+      "weight": 1
+    },
+    {
+      "source": "Ejercito",
+      "target": "Estrada",
+      "weight": 126
+    },
+    {
+      "source": "Ejercito",
+      "target": "Escudero",
+      "weight": 4
+    },
+    {
+      "source": "Ejercito",
+      "target": "Tolentino",
+      "weight": 5
+    },
+    {
+      "source": "Ejercito",
+      "target": "Villanueva",
+      "weight": 12
+    },
+    {
+      "source": "Ejercito",
+      "target": "Padilla",
+      "weight": 3
+    },
+    {
+      "source": "Ejercito",
+      "target": "Angara",
+      "weight": 3
+    },
+    {
+      "source": "Ejercito",
+      "target": "Pimentel",
+      "weight": 1
+    },
+    {
+      "source": "Estrada",
+      "target": "Escudero",
+      "weight": 3
+    },
+    {
+      "source": "Estrada",
+      "target": "Tolentino",
+      "weight": 7
+    },
+    {
+      "source": "Estrada",
+      "target": "Villanueva",
+      "weight": 17
+    },
+    {
+      "source": "Estrada",
+      "target": "Padilla",
+      "weight": 6
+    },
+    {
+      "source": "Estrada",
+      "target": "Angara",
+      "weight": 8
+    },
+    {
+      "source": "Estrada",
+      "target": "Binay",
+      "weight": 1
+    },
+    {
+      "source": "Estrada",
+      "target": "Villar, M.",
+      "weight": 1
+    },
+    {
+      "source": "Estrada",
+      "target": "Pimentel",
+      "weight": 2
+    },
+    {
+      "source": "Estrada",
+      "target": "Lapid",
+      "weight": 1
+    },
+    {
+      "source": "Escudero",
+      "target": "Tolentino",
+      "weight": 2
+    },
+    {
+      "source": "Escudero",
+      "target": "Villanueva",
+      "weight": 6
+    },
+    {
+      "source": "Escudero",
+      "target": "Angara",
+      "weight": 3
+    },
+    {
+      "source": "Escudero",
+      "target": "Padilla",
+      "weight": 3
+    },
+    {
+      "source": "Escudero",
+      "target": "Cayetano, A.",
+      "weight": 2
+    },
+    {
+      "source": "Tolentino",
+      "target": "Villanueva",
+      "weight": 4
+    },
+    {
+      "source": "Tolentino",
+      "target": "Angara",
+      "weight": 3
+    },
+    {
+      "source": "Tolentino",
+      "target": "Binay",
+      "weight": 1
+    },
+    {
+      "source": "Tolentino",
+      "target": "Villar, M.",
+      "weight": 1
+    },
+    {
+      "source": "Tolentino",
+      "target": "Pimentel",
+      "weight": 2
+    },
+    {
+      "source": "Tolentino",
+      "target": "Padilla",
+      "weight": 2
+    },
+    {
+      "source": "Villanueva",
+      "target": "Pimentel",
+      "weight": 2
+    },
+    {
+      "source": "Villanueva",
+      "target": "Padilla",
+      "weight": 8
+    },
+    {
+      "source": "Villanueva",
+      "target": "Angara",
+      "weight": 10
+    },
+    {
+      "source": "Villanueva",
+      "target": "Villar, M.",
+      "weight": 2
+    },
+    {
+      "source": "Villanueva",
+      "target": "Binay",
+      "weight": 2
+    },
+    {
+      "source": "Villanueva",
+      "target": "Go",
+      "weight": 1
+    },
+    {
+      "source": "Villanueva",
+      "target": "Cayetano, A.",
+      "weight": 1
+    },
+    {
+      "source": "Pimentel",
+      "target": "Angara",
+      "weight": 1
+    },
+    {
+      "source": "Angara",
+      "target": "Villar, M.",
+      "weight": 2
+    },
+    {
+      "source": "Angara",
+      "target": "Padilla",
+      "weight": 4
+    },
+    {
+      "source": "Angara",
+      "target": "Binay",
+      "weight": 1
+    },
+    {
+      "source": "Angara",
+      "target": "Lapid",
+      "weight": 1
+    },
+    {
+      "source": "Go",
+      "target": "Cayetano, A.",
+      "weight": 1
+    },
+    {
+      "source": "Go",
+      "target": "Marcos",
+      "weight": 1
+    },
+    {
+      "source": "Villar, M.",
+      "target": "Binay",
+      "weight": 1
+    },
+    {
+      "source": "Cayetano, A.",
+      "target": "Marcos",
+      "weight": 1
+    }
+  ]
+}
