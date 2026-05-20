@@ -6,7 +6,7 @@
       "val": 14,
       "degreeCentrality": 0.6086956521739131,
       "betweennessCentrality": 0.0,
-      "community": 1,
+      "community": 2,
       "billsCount": 61
     },
     {
@@ -15,7 +15,7 @@
       "val": 15,
       "degreeCentrality": 0.6521739130434783,
       "betweennessCentrality": 0.2213438735177865,
-      "community": 1,
+      "community": 2,
       "billsCount": 47
     },
     {
@@ -24,7 +24,7 @@
       "val": 17,
       "degreeCentrality": 0.7391304347826086,
       "betweennessCentrality": 0.14959533220402782,
-      "community": 1,
+      "community": 2,
       "billsCount": 55
     },
     {
@@ -33,7 +33,7 @@
       "val": 19,
       "degreeCentrality": 0.8260869565217391,
       "betweennessCentrality": 0.08992094861660078,
-      "community": 1,
+      "community": 2,
       "billsCount": 109
     },
     {
@@ -42,7 +42,7 @@
       "val": 17,
       "degreeCentrality": 0.7391304347826086,
       "betweennessCentrality": 0.0004940711462450593,
-      "community": 1,
+      "community": 2,
       "billsCount": 94
     },
     {
@@ -51,7 +51,7 @@
       "val": 15,
       "degreeCentrality": 0.6521739130434783,
       "betweennessCentrality": 0.035549595332204025,
-      "community": 1,
+      "community": 2,
       "billsCount": 61
     },
     {
@@ -60,7 +60,7 @@
       "val": 18,
       "degreeCentrality": 0.7826086956521738,
       "betweennessCentrality": 0.0,
-      "community": 1,
+      "community": 2,
       "billsCount": 164
     },
     {
@@ -69,7 +69,7 @@
       "val": 16,
       "degreeCentrality": 0.6956521739130435,
       "betweennessCentrality": 0.024802371541501975,
-      "community": 1,
+      "community": 2,
       "billsCount": 32
     },
     {
@@ -78,7 +78,7 @@
       "val": 15,
       "degreeCentrality": 0.6521739130434783,
       "betweennessCentrality": 0.001976284584980237,
-      "community": 0,
+      "community": 1,
       "billsCount": 172
     },
     {
@@ -87,7 +87,7 @@
       "val": 18,
       "degreeCentrality": 0.7826086956521738,
       "betweennessCentrality": 0.0831921701486919,
-      "community": 0,
+      "community": 1,
       "billsCount": 144
     },
     {
@@ -96,7 +96,7 @@
       "val": 15,
       "degreeCentrality": 0.6521739130434783,
       "betweennessCentrality": 0.03491436100131752,
-      "community": 1,
+      "community": 2,
       "billsCount": 25
     },
     {
@@ -105,7 +105,7 @@
       "val": 16,
       "degreeCentrality": 0.6956521739130435,
       "betweennessCentrality": 0.03421325051759834,
-      "community": 1,
+      "community": 2,
       "billsCount": 49
     },
     {
@@ -114,7 +114,7 @@
       "val": 19,
       "degreeCentrality": 0.8260869565217391,
       "betweennessCentrality": 0.03623188405797101,
-      "community": 1,
+      "community": 2,
       "billsCount": 101
     },
     {
@@ -123,7 +123,7 @@
       "val": 11,
       "degreeCentrality": 0.4782608695652174,
       "betweennessCentrality": 0.22433653303218518,
-      "community": 1,
+      "community": 2,
       "billsCount": 13
     },
     {
@@ -132,7 +132,7 @@
       "val": 18,
       "degreeCentrality": 0.7826086956521738,
       "betweennessCentrality": 0.03999623564840956,
-      "community": 1,
+      "community": 2,
       "billsCount": 65
     },
     {
@@ -141,7 +141,7 @@
       "val": 14,
       "degreeCentrality": 0.6086956521739131,
       "betweennessCentrality": 0.0,
-      "community": 1,
+      "community": 2,
       "billsCount": 36
     },
     {
@@ -150,7 +150,7 @@
       "val": 6,
       "degreeCentrality": 0.2608695652173913,
       "betweennessCentrality": 0.07933370976849238,
-      "community": 2,
+      "community": 0,
       "billsCount": 20
     },
     {
@@ -159,7 +159,7 @@
       "val": 2,
       "degreeCentrality": 0.08695652173913043,
       "betweennessCentrality": 0.001976284584980237,
-      "community": 0,
+      "community": 1,
       "billsCount": 50
     },
     {
@@ -168,7 +168,7 @@
       "val": 6,
       "degreeCentrality": 0.2608695652173913,
       "betweennessCentrality": 0.01634199134199134,
-      "community": 1,
+      "community": 2,
       "billsCount": 2
     },
     {
@@ -177,7 +177,7 @@
       "val": 1,
       "degreeCentrality": 0.043478260869565216,
       "betweennessCentrality": 0.0,
-      "community": 1,
+      "community": 2,
       "billsCount": 1
     },
     {
@@ -186,7 +186,7 @@
       "val": 8,
       "degreeCentrality": 0.34782608695652173,
       "betweennessCentrality": 0.12470826275174098,
-      "community": 1,
+      "community": 2,
       "billsCount": 12
     },
     {
@@ -195,7 +195,7 @@
       "val": 7,
       "degreeCentrality": 0.30434782608695654,
       "betweennessCentrality": 0.17446357989836245,
-      "community": 2,
+      "community": 0,
       "billsCount": 14
     },
     {
@@ -204,7 +204,7 @@
       "val": 1,
       "degreeCentrality": 0.043478260869565216,
       "betweennessCentrality": 0.0,
-      "community": 1,
+      "community": 2,
       "billsCount": 1
     },
     {
@@ -213,7 +213,7 @@
       "val": 4,
       "degreeCentrality": 0.17391304347826086,
       "betweennessCentrality": 0.05473367212497646,
-      "community": 2,
+      "community": 0,
       "billsCount": 1
     }
   ],

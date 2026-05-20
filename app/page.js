@@ -22,7 +22,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-[#030712] text-gray-100 font-sans selection:bg-blue-500/30 overflow-hidden">
-      
+
       {/* Dynamic Background Elements */}
       <div className="fixed inset-0 z-0 overflow-hidden pointer-events-none">
         <div className="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] rounded-full bg-blue-900/20 blur-[120px]" />
@@ -30,7 +30,7 @@ export default function Home() {
       </div>
 
       <div className="relative z-10 h-screen flex flex-col max-w-[1920px] mx-auto p-4 md:p-6 gap-6">
-        
+
         {/* Header */}
         <header className="flex-none flex items-center justify-between bg-gray-900/40 border border-gray-800/60 rounded-2xl p-4 md:px-8 backdrop-blur-xl shadow-lg">
           <div className="flex items-center gap-4">
@@ -46,28 +46,23 @@ export default function Home() {
               </p>
             </div>
           </div>
-          
-          <div className="hidden md:flex items-center gap-6">
-            <div className="flex items-center gap-2 text-sm text-gray-400 bg-gray-800/50 px-4 py-2 rounded-full border border-gray-700/50">
-              <Zap className="w-4 h-4 text-amber-400" />
-              <span>Digital Governance</span>
-            </div>
-            <div className="flex items-center gap-2 text-sm text-gray-400 bg-gray-800/50 px-4 py-2 rounded-full border border-gray-700/50">
-              <Shield className="w-4 h-4 text-emerald-400" />
-              <span>Cybersecurity</span>
-            </div>
+
+          <div className="hidden md:flex flex-col text-gray-400 text-sm">
+            <p>Galileon Destura</p>
+            <p>Kurt Ashton Montebon</p>
+            <p>Jeff Ronyl Pausal</p>
           </div>
         </header>
 
         {/* Main Content */}
         <main className="flex-1 flex flex-col lg:flex-row gap-6 min-h-0">
-          
+
           {/* Left Panel: Network Graph */}
           <div className="flex-[2] relative min-h-[400px] lg:min-h-0">
-            <NetworkGraph data={data} onNodeClick={setSelectedNode} />
-            
+            <NetworkGraph data={data} onNodeClick={setSelectedNode} selectedNode={selectedNode} />
+
             {/* Overlay instruction */}
-            <div className="absolute bottom-6 left-6 flex items-center gap-3 bg-gray-900/80 backdrop-blur-md px-4 py-3 rounded-xl border border-gray-700/50 shadow-xl">
+            <div className="absolute bottom-6 left-6 flex items-center gap-3 bg-gray-900/80 backdrop-blur-md px-4 py-3 rounded-xl border border-gray-700/50 shadow-xl text-left">
               <div className="w-8 h-8 rounded-full bg-blue-500/20 flex items-center justify-center border border-blue-500/30">
                 <Search className="w-4 h-4 text-blue-400" />
               </div>
